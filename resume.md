@@ -122,3 +122,4 @@ https://www.gnome-look.org/p/1131848/
 - Debugging: gdb, valgrind, WinDbg
 - Docs: Doxygen, DocFX(.NET) , LaTex
 - Английский: разговорный, жил и работал в США, Швейцарии
+- Права категории B
