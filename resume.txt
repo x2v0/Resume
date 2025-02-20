@@ -18,10 +18,12 @@ valeriy.onuchin@yandex.ru — предпочитаемый способ связ
 
 Желаемая должность и зарплата
 
-Программист-разработчик
+Программист С++,C#,Python,DevOps
 
 Специализации:
 
+DevOps-инженер
+Дата-сайентист
 Программист, разработчик
 
 Занятость: полная занятость
@@ -145,18 +147,20 @@ Rene Brun (Rene.Brun@cern.ch) (programmer)
 Я - солдат. Поставлена цель - взять высоту! Идешь и берешь.
 Хотя подчас это - "Иди туда, не знаю куда. Принеси то, не знаю что".
 
-Свою миллионную С++ LOC - я уже написал.
+Свою лимонную С++ LOC - я давно написал.
 
 Portfolio:
+- кроссплатформенное, междисциплинарное программирование, devops
+- C++ , C# , Python, Kotlin, Golang, Rust
 - Анализ, обработка данных: ROOT, python (numpy, scipy). Geant4, Pythia8
 - Desktop: Qt, DevExpress, JetPack Compose, Gtk#
-- Scripting: bash, PowerShell, python
+- Scripting: bash, PowerShell, python, cmake
 - Network: TCP, UDP, RTP, HTTP
-- Building: cmake, make, autotools, meson, gradle
+- Building: cmake, make, autotools, meson, gradle, cargo
 - Version control: git, svn, CI/CD
 - Web: apache, nginx, HTML/CSS, JavaScript, React, telegram bot
 - DB: SQLite, PostgreSQL, ODBC, SQL Server/Access, ROOT I/O
-- Medical: DICOM-RT, DICOM viewer
+- Medical: DICOM-RT, 3D DICOM viewer
 - Debugging: gdb, valgrind, WinDbg
 - Docs: Doxygen, DocFX(.NET) , LaTex
 - Английский: жил и работал в США, Швейцарии
