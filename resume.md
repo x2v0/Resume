@@ -16,7 +16,7 @@
 Программист С++, C#, Python, DevOps
 
 **Специализации:**
-- Программист-Физик
+- Программист-разработчик
 - DevOps
 - Дата-сайентист
 
@@ -63,6 +63,7 @@ https://jinr.ru
 **Ведущий программист**
 
 http://ru.m.wikipedia.org/wiki/ROOT
+
 *Я один из авторов ROOT, являющимся базовым пакетом всех экспериментов Физики Высоких Энергий. Все данные с БАК (тысячи пентабайт) записаны в ROOT формате. Содержит более 4 миллионов С++ кода, сотни тысяч скачиваний, десятки тысяч пользователей, более тысячи новых регистраций на форуме ежегодно.*
 
 **Мой вклад:**
@@ -92,7 +93,7 @@ https://www.gnome-look.org/p/1131848/
 **Участие в экспериментах:**
 - Комплекс Меченных Нейтрино, Гиперон (ИФВЭ)
 - PHENIX, Minos (USA)
--ATLAS, Alice (CERN)
+- ATLAS, Alice (CERN)
 
 Автор ~80 научных работ, индекс Хирша = 43 
 
@@ -118,13 +119,15 @@ https://www.gnome-look.org/p/1131848/
 - Анализ, обработка данных: ROOT, python (numpy, scipy). Geant4, Pythia8
 - Desktop: Qt, DevExpress, JetPack Compose, Gtk#
 - Scripting: bash, PowerShell, python, cmake
-- Network: TCP,UDP, RTP, HTTP
+- Network: TCP, UDP, RTP, HTTP
+	- BSD/Win sockets, async select/poll/epoll
+	- video-audio, RSTP, SIP
 - Building: cmake, make, autotools, meson, gradle, cargo
 - Version control: git, svn, CI/CD
-- Web: apache, nginx, HTML/CSS, JavaScript, React, telegram bot
-- DB: SQLite, PostgreSQL, ODBC, SQL Server/Access, ROOT I/O
+- Web: apache, nginx, node.js, HTML/CSS, JavaScript, webassembly,telegram bot
+- DB: SQLite, PostgreSQL, ODBC, SQL Server, ROOT I/O
 - Medical: DICOM-RT, 3D DICOM viewer
 - Debugging: gdb, valgrind, WinDbg
 - Docs: Doxygen, DocFX(.NET) , LaTex
-- Английский: разговорный, жил и работал в США, Швейцарии
+- Английский: разговорный. Жил и работал в США, Швейцарии
 - Права категории B1
