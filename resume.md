@@ -25,7 +25,7 @@
 ### ОИЯИ, Дубна, Московская область ###
 https://jinr.ru
 
-Научно-исследовательская, научная, академическая деятельность
+Научно-исследовательская деятельность
 
 Январь 2022 — Декабрь 2024
 
@@ -78,9 +78,7 @@ https://root.cern.ch/doc/v630/group__tutorial__image.html
 	- позволяет запускать С++ скрипты на стороне сервера (not CGI)
 	- встраивать исполняемый C++ код в HTML
 	- browse ROOT files
-
 https://sourceforge.net/projects/carrot
-
 Является аналогом PHP, JSP.
 - один из авторов QtRoot
 https://www.gnome-look.org/p/1131848/
