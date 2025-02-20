@@ -74,12 +74,12 @@ http://ru.m.wikipedia.org/wiki/ROOT
 https://root.cern.ch/root/htmldoc/guides/users-guide/WritingGUI.html
 - Image processing classes
 https://root.cern.ch/doc/v630/group__tutorial__image.html
-- Carrot - ROOT Apache module. 
+- Carrot - ROOT Apache module.
+
+ https://sourceforge.net/projects/carrot
 	- позволяет запускать С++ скрипты на стороне сервера (not CGI)
 	- встраивать исполняемый C++ код в HTML
 	- browse ROOT files
-https://sourceforge.net/projects/carrot
-Является аналогом PHP, JSP.
 - один из авторов QtRoot
 https://www.gnome-look.org/p/1131848/
 
