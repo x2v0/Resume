@@ -1,20 +1,25 @@
 #!/bin/bash
 
-alias ve='python3 -m virtualenv ./venv'
+# Virtualenv aliases
+alias ve='python3 -m venv ./venv'
 alias va='source ./venv/bin/activate'
 
-#alias lsh=’ls -d .* --color=auto’
+# List directory aliases
 alias lst='ls -t -1'
 alias ll='ls -lh'
-alias la='ls -la'
+alias la='ls -A'
+alias lh='ls -d .?*'
 alias l='ls -F'
 alias llt='ls --human-readable --size -1 -S --classify'
 
-alias mnt="mount | awk -F' ' '{ printf \"%s\t%s\n\",\$1,\$3; }' | column -t | egrep ^/dev/ | sort"
-
-
+# Mount and disk usage aliases
+alias mnt="mount | awk -F' ' '{ printf \"%s\t%s\n\",\$1,\$3; }' | column -t | grep -E ^/dev/ | sort"
 alias dus='du -sh * | sort -h'
+
+# System update alias
 alias updg='apt update && apt upgrade'
+
+# General aliases
 alias py='python'
 alias c='clear'
 alias ..='cd ..'
@@ -22,12 +27,17 @@ alias ...='cd ../../../'
 alias ....='cd ../../../../'
 alias .....='cd ../../../../'
 alias .4='cd ../../../../'
-alias .5='cd ../../../../..'
+alias .5='cd ../../../../../'
 
-alias ipls="curl ipinfo.io/ip"
+# Network and IP alias
+alias ipls="curl -s ipinfo.io/ip"
+
+# Grep aliases
 alias grep='grep --color=auto'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
+
+# Directory and file management aliases
 alias mkdir='mkdir -pv'
 alias h='history'
 alias j='jobs -l'
@@ -37,44 +47,62 @@ alias nowdate='date +"%d-%m-%Y"'
 alias mv='mv -i'
 alias cp='cp -i'
 alias ln='ln -i'
-alias rmi='rm -i'
 alias tkn="cat ~/mywrk/token.txt"
 
+# Process and system monitoring aliases
 alias ps="ps ax | sed -e 's#/data/data/com.termux/files##g' | fzf"
 alias wget='wget -c'
-alias df='df -H |column -t | fzf'
+alias df='df -H | column -t | fzf'
 alias du='du -ch'
-alias free='free -h |column -t | fzf'
+alias free='free -h | column -t | fzf'
 
-# git
-alias startgit='cd `git rev-parse --show-toplevel` && git checkout master && git pull'
-
-alias gs="git status"
-alias gst="git status -sb"
+# Git aliases
+alias gs="git status -sb"
 alias gl="git log"
-alias ga="git add"
-alias gaa="git add -A"
-alias gal="git add ."
-alias gall="git add ."
+alias gA="git add -A"
+alias ga="git add ."
 alias gca="git commit -a"
 alias gc="git commit -m"
-alias gckout="git checkout"
+alias gchk="git checkout"
 alias go="git push -u origin"
 alias gsh='git stash'
 alias gw='git whatchanged'
-alias gitlg="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias glg="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
+# Custom script aliases
 alias pdg='cat ~/mywrk/token.txt; ~/mywrk/pdg.sh'
 alias gpps='cat ~/mywrk/token.txt; ~/mywrk/gpps.sh'
 
+# FZF aliases
 alias fcd='`__fzf_cd__`'
 alias fq='fzf -q'
 
+# Custom functions
 fnd() {
   find "$1" -name "$2" -type f ! -path "*/.*" | fzf
 }
 
-source /data/data/com.termux/files/usr/share/fzf/completion.bash
+alias fixsh="sed -i '1i\#fix'"
+alias fixcs="sed -i '1i\//fix'"
 
+# Source FZF completion and key bindings
+source /data/data/com.termux/files/usr/share/fzf/completion.bash
 source /data/data/com.termux/files/usr/share/fzf/key-bindings.bash
 
+# Code-server alias
+alias code='code-server | lt --port 8080 --subdomain onuchinv &'
 
+# Custom directory alias
+alias my='cd ~/mywrk'
+
+# Safe rm function
+rm() {
+    # Check if the -f flag is present in the arguments
+    if echo "$*" | grep -q -- '-f'; then
+        # If -f is present, bypass the -i flag and run rm directly
+        /bin/rm "$@"
+    else
+        # Otherwise, run rm with -i for safety
+        /bin/rm -i "$@"
+    fi
+}
