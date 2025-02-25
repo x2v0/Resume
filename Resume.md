@@ -38,7 +38,7 @@
 
 **Избранные репозитории:**  
 - [lfspd](https://git.jinr.ru/x2v0/lfspd) — Docker для параллельных вычислений. Автоматическая сборка из исходников Linux distro - ~200 пакетов.
-   - Технологии: docker, bash, cmake, всевозможные системы сборки и компиляторы 
+   - Технологии: docker, bash, cmake, системы сборки и компиляторы 
 - [gitextension](https://git.jinr.ru/x2v0/gitextension) — расширения для Git  
 - [SpdCMake](https://git.jinr.ru/x2v0/SpdCMake) — CMake-функции для SPD  
 - [cvmfs](https://git.jinr.ru/x2v0/cvmfs) — автоматическое подключение CVMFS-директорий  
