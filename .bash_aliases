@@ -5,12 +5,12 @@ alias ve='python3 -m venv ./venv'
 alias va='source ./venv/bin/activate'
 
 # List directory aliases
-alias lst='ls -t -1'
-alias ll='ls -lh'
+alias ll='ls -a -t -1'
+alias lll='ls -lha'
 alias la='ls -A'
 alias lh='ls -d .?*'
-alias l='ls -F'
-alias llt='ls --human-readable --size -1 -S --classify'
+alias l='ls -a'
+alias lsz='ls --human-readable --size -1 -S --classify'
 
 # Mount and disk usage aliases
 alias mnt="mount | awk -F' ' '{ printf \"%s\t%s\n\",\$1,\$3; }' | column -t | grep -E ^/dev/ | sort"
@@ -20,6 +20,7 @@ alias dus='du -sh * | sort -h'
 alias updg='apt update && apt upgrade'
 
 # General aliases
+alias ed='mcedit'
 alias py='python'
 alias c='clear'
 alias ..='cd ..'
@@ -64,7 +65,6 @@ alias ga="git add ."
 alias gca="git commit -a"
 alias gc="git commit -m"
 alias gchk="git checkout"
-alias go="git push -u origin"
 alias gsh='git stash'
 alias gw='git whatchanged'
 alias glg="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
@@ -94,6 +94,8 @@ alias code='code-server | lt --port 8080 --subdomain onuchinv &'
 
 # Custom directory alias
 alias my='cd ~/mywrk'
+
+alias unRO='chmod -R u+w'
 
 # Safe rm function
 rm() {

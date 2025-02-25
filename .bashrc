@@ -5,6 +5,9 @@ umask 022
 # Set locale to POSIX
 export LC_ALL=POSIX
 
+export LANG=en_US.UTF-8
+export LC_CTYPE=en_US.UTF-8
+
 # Set PATH
 export PATH=/usr/bin:/usr/sbin:/usr/local/bin${PATH:+:${PATH}}
 if [ ! -L /bin ]; then
@@ -65,3 +68,6 @@ if command -v sshd &> /dev/null; then
 else
     echo "sshd not found. Please install OpenSSH."
 fi
+export GOROOT=$PREFIX/lib/go
+export GOPATH=$HOME/go
+export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
