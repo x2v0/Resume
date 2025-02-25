@@ -34,10 +34,10 @@
 Разработка ПО для эксперимента SPD ([spd.jinr.ru](https://spd.jinr.ru)):  
 - моделирование детектора  
 - реконструкция физических событий (Geant4, Pythia8, ROOT, Gaudi)  
+- создание docker для распределенных вычислений
 
 **Избранные репозитории:**  
-- [lfspd](https://git.jinr.ru/x2v0/lfspd) — Docker для параллельных вычислений. \
-      Автоматическая сборка из исходников Linux distro - ~200 пакетов.
+- [lfspd](https://git.jinr.ru/x2v0/lfspd) — Docker для параллельных вычислений. Автоматическая сборка из исходников Linux distro - ~200 пакетов.
     - Технологии: docker, bash, cmake, всевозможные системы сборки и компиляторы 
 - [gitextension](https://git.jinr.ru/x2v0/gitextension) — расширения для Git  
 - [SpdCMake](https://git.jinr.ru/x2v0/SpdCMake) — CMake-функции для SPD  
