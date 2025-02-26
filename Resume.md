@@ -118,7 +118,7 @@
 ### **Технологии**  
 - **Анализ данных:** ROOT, Python (NumPy, SciPy)  
 - **GUI:** Qt, DevExpress, JetPack Compose, Gtk#  
-- **Скрипты:** Bash, PowerShell, Python, CMake, Go  
+- **Скрипты:** Bash, PowerShell, Python  
 - **Сетевые технологии:** TCP, UDP, RTP, HTTP, RTSP, SIP  
 - **Системы сборки:** CMake, Make, Autotools, Meson, Gradle, Cargo  
 - **CI/CD, контроль версий:** Git, SVN  
