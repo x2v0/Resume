@@ -37,7 +37,7 @@
 - создание docker для распределенных вычислений
 
 **Избранные репозитории:**  
-- [lfspd](https://git.jinr.ru/x2v0/lfspd) — Docker для параллельных вычислений. 
+- [lfspd](https://github.com/lfspd/lfspd) — Docker для параллельных вычислений. 
 	Автоматическая сборка Linux дистрибутива ~200 пакетов, включающего математические, физические пакеты.
    - Технологии: docker, bash, cmake, системы сборки и компиляторы 
 - [gitextension](https://git.jinr.ru/x2v0/gitextension) — расширения для Git  
