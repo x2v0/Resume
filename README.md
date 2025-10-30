@@ -37,7 +37,7 @@
 - создание docker image для распределенных вычислений
 
 **Избранные репозитории:**  
-- [lfspd](https://github.com/lfspd/lfspd) — Docker image для параллельных вычислений. 
+- [lfspd](https://github.com/lfspd/lfspd) — docker image для параллельных вычислений. 
 	Автоматическая сборка Linux дистрибутива ~200 пакетов, включающего математические, физические пакеты.
    - Технологии: docker, bash, cmake, системы сборки и компиляторы  
 - [SpdCMake](https://git.jinr.ru/x2v0/SpdCMake) — CMake-функции для SPD эксперимента.  
