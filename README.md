@@ -75,7 +75,7 @@
 - Windows-версия ROOT (Win32 API) 
 - GUI-классы и GuiBuilder ([документация](https://root.cern.ch/root/htmldoc/guides/users-guide/WritingGUI.html))  
 - Классы обработки изображений ([пример](https://root.cern.ch/doc/v630/group__tutorial__image.html))  
-- Carrot — Apache-модуль для выполнения C++ скриптов ([подробнее](https://sourceforge.net/projects/carrot))  
+- Carrot — Apache-модуль для выполнения C++ скриптов на стороне сервера (аналог PHP)([подробнее](https://sourceforge.net/projects/carrot))  
 - QtRoot (Qt, C++) ([детали](https://www.gnome-look.org/p/1131848/)) 
 
 
