@@ -49,7 +49,7 @@
   - реконструкцию физических событий (Geant4, Pythia8, ROOT, Gaudi)  
 
 **Избранные репозитории:**  
-- [lfspd](https://github.com/lfspd/lfspd) — docker image для параллельных вычислений. 
+- [lfspd](https://github.com/lfspd/lfspd) — docker image для параллельных вычислений. Основан на https://linuxfromscratch.org
 	Автоматическая сборка Linux дистрибутива ~200 пакетов, включающего математические, физические пакеты.
    - Технологии: python, docker, bash, cmake, системы сборки и компиляторы  
 - [SpdCMake](https://git.jinr.ru/x2v0/SpdCMake) — CMake-функции для SPD эксперимента.  
