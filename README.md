@@ -11,7 +11,7 @@
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 **Специализация**  
-- ~30 лет в профессии. Программист общего профиля: <span style="font-size: 0.8em;">Linux (включая ядро 6.18), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k. C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript ... Make, CMake, Meson/Ninja, autotools/pkg-config ... VS Studio, VS Code, Android Studio, Eclipse ... Win32, X11, GL, Vulkan ... Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose ... DirectShow, FFmpeg, GStreamer, OpenCV ... TCP/IP, UDP, RTSP ... ODBC, SQLite, MySQL, Maria DB, PostgeSQL .. docker, LXC ... PulseAudio, PipeWire, ALSA, HDA ...  ++ и тд. и тп.</span>
+- ~30 лет в профессии. Программист общего профиля:<sub>Linux (включая ядро 6.18), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k. C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript ... Make, CMake, Meson/Ninja, autotools/pkg-config ... VS Studio, VS Code, Android Studio, Eclipse ... Win32, X11, GL, Vulkan ... Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose ... DirectShow, FFmpeg, GStreamer, OpenCV ... TCP/IP, UDP, RTSP ... ODBC, SQLite, MySQL, Maria DB, PostgeSQL .. docker, LXC ... PulseAudio, PipeWire, ALSA, HDA ...  ++ и тд. и тп.</sub>
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#**
 - Разговорный английский 
