@@ -11,7 +11,7 @@
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 **Специализация**  
-- ~30 лет в профессии. Программист общего профиля: **<sub> системное программирование - Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k. Языки - C++, C#, Kotlin, Python, bash, Ruby, JavaScript. Системы сборки - Make, CMake, Meson/Ninja, autotools/pkg-config.  Низкоуровневая графика - Win32, X11, GL, Vulkan. GUI - Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose. Видео - DirectShow, FFmpeg, GStreamer, OpenCV. Сеть - TCP/IP, UDP, RTSP. Базы данных -ODBC, SQLite, MySQL, Maria DB, PostgeSQL. Контейнеры - docker, LXC. Аудио - PulseAudio, PipeWire, ALSA, HDA ...  ++ и тд. и тп.</sub>**
+- ~30 лет в профессии. Программист общего профиля: **<sub> Системное программирование - Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k. Языки - C++, C#, Kotlin, Python, bash, Ruby, JavaScript. Системы сборки - Make, CMake, Meson/Ninja, autotools/pkg-config.  Низкоуровневая графика - Win32, X11, GL, Vulkan. GUI - Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose. Видео - DirectShow, FFmpeg, GStreamer, OpenCV. Сеть - TCP/IP, UDP, RTSP. Базы данных -ODBC, SQLite, MySQL, Maria DB, PostgeSQL. Контейнеры - docker, LXC. Аудио - PulseAudio, PipeWire, ALSA, HDA ++ и тд. и тп.</sub>**
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#**
 - Разговорный английский 
