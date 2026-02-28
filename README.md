@@ -12,9 +12,9 @@
 
 
 **Специализация**  
-- ~30 лет в профессии. Программист общего профиля.<sub>
-.  **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.
-. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config.</sub>
+- ~30 лет в профессии. Программист общего профиля:<sub>
+.  **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript
+. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config</sub>
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#**
 - Разговорный английский 
