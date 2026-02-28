@@ -10,24 +10,11 @@
 
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
-**Специализация**  
-- ~30 лет в профессии. Программист общего профиля.  
-  - **DevOps**: Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.
-  - **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.  
-  - **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config.  
-  - **Low-level API**: Win32, X11, GL, Vulkan.  
-  - **GUI**: Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose.  
-  - **Video**: DirectShow, FFmpeg, GStreamer, OpenCV.  
-  - **Net**: TCP/IP, UDP, RTSP.  
-  - **DB**: ODBC, SQLite, MySQL, MariaDB, PostgreSQL.  
-  - **Containers**: docker, LXC.  
-  - **Audio**: PulseAudio, PipeWire, ALSA, HDA и т.д.  
-  - **Scientific**: один из авторов [ROOT](https://root.cern.ch)
 
 **Специализация**  
 - ~30 лет в профессии. Программист общего профиля.<sub>
 .  **DevOps**: Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.
-.  **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.
+.  .  **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.
 . **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config.
 . **Low-level API**: Win32, X11, GL, Vulkan.
 .  **GUI**: Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose.
