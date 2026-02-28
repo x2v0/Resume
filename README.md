@@ -11,7 +11,7 @@
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 **Специализация**  
-- ~30 лет в профессии. Программист общего профиля:
+- ~30 лет в профессии. Программист общего профиля:<sub>
 .  **DevOps** - Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.
 - **Programming** - C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.
   **Building** - Make, CMake, Meson/Ninja, autotools/pkg-config.
@@ -22,7 +22,7 @@
 DB - ODBC, SQLite, MySQL, Maria DB, PostgeSQL.
 **Containers** - docker, LXC.
 **Audio** - PulseAudio, PipeWire, ALSA, HDA ++ и тд. и тп.
-**Scientific** - я один из авторов  [ROOT](https://root.cern.ch)
+**Scientific** - я один из авторов  [ROOT](https://root.cern.ch)</sub>
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#**
 - Разговорный английский 
