@@ -12,7 +12,7 @@
 
 **Специализация**  
 - ~30 лет в профессии. Программист общего профиля.  
-  - <sub>**DevOps**: Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.</sub>  
+  - **DevOps**: Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.
   - **Programming**: C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.  
   - **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config.  
   - **Low-level API**: Win32, X11, GL, Vulkan.  
