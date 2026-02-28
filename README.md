@@ -11,28 +11,16 @@
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 **Специализация**  
-- ~30 лет в профессии. Программист общего профиля:
-
-**<sub>DevOps - Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.</sub>**
-
-**<sub>Programming - C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.</sub>**
-
+- ~30 лет в профессии. Программист общего профиля:**<sub>DevOps - Linux (включая ядро), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k.
+Programming - C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript.
 Building - Make, CMake, Meson/Ninja, autotools/pkg-config.
-
 Low-level API - Win32, X11, GL, Vulkan.
-
 GUI - Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose.
-
 Video - DirectShow, FFmpeg, GStreamer, OpenCV.
-
 Net - TCP/IP, UDP, RTSP.
-
 DB - ODBC, SQLite, MySQL, Maria DB, PostgeSQL.
-
 Containers - docker, LXC.
-
 Audio - PulseAudio, PipeWire, ALSA, HDA ++ и тд. и тп.
-
 Scientific - я один из авторов  [ROOT](https://root.cern.ch) </sub>**
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#**
