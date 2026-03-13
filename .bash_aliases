@@ -108,3 +108,9 @@ rm() {
         /bin/rm -i "$@"
     fi
 }
+
+alias myip='wget -qO- ifconfig.io'
+alias his='history | grep '
+alias c='clear'
+alias ..="cd .."
+
