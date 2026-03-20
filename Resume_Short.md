@@ -4,6 +4,7 @@
 📍 Протвино, Московская область | Гражданство: Россия  
 🌐 [github.com/x2v0](https://github.com/x2v0)
 
+[Резюме полное](https://github.com/x2v0/Resume/blob/main/README.md)
 ---
 
 ## Ключевая квалификация
