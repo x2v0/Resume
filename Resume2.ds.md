@@ -22,7 +22,7 @@ DevOps-инженер, программист с 30-летним опытом в
 | **CI/CD & Automation** | GitLab CI, GitHub Actions, автоматизация сборки, пайплайны |
 | **Infrastructure as Code** | Bash, Python, CMake, Meson, autotools, PowerShell |
 | **Системы сборки** | CMake, Meson/Ninja, autotools, Make, кросс-компиляция |
-| **Платформы** | Linux (Ubuntu, Альт ОС, Альтель ОС), Windows, Эльбрус-2000, aarch64, x86 |
+| **Платформы** | Linux (Ubuntu, Альт ОС), Windows, Эльбрус-2000, aarch64, x86 |
 | **Стек разработки** | C++, C#, Python, Kotlin, bash |
 
 **Английский язык:** разговорный, техническая документация
