@@ -62,7 +62,7 @@
 | Проект | Описание |
 |--------|----------|
 | **[`lfspd`](https://github.com/x2v0/lfspd)** | Автоматическая сборка Linux-дистрибутива для научных вычислений (Python, chroot, Docker, bash) |
-| **[`SpdCMake`](https://github.com/x2v0/SpdCMake)** | CMake-функции для унификации сборки в эксперименте SPD |
+| **[`SpdCMake`](https://git.jinr.ru/x2v0/spdcmake)** | CMake-функции для унификации сборки в эксперименте SPD |
 
 ---
 
