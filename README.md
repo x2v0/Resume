@@ -16,6 +16,8 @@
 .  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, ++</sub>
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#** https://github.com/x2v0
+- Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
+http://ru.m.wikipedia.org/wiki/ROOT
 - Разговорный английский 
  
 
