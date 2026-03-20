@@ -32,7 +32,7 @@
 
 Разработка Альтель ОС на базе [Альт ОС](
 https://www.basealt.ru)
- под отечественные платформы [Эльбрус-2000](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_2000) aarch64 [Скиф процессор](https://support.elvees.com)
+ под отечественные платформы [Эльбрус-2000](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_2000), aarch64 [Скиф процессор](https://support.elvees.com/docs/Microchips/SKIF/)
 
 ---
 
