@@ -16,8 +16,7 @@
 .  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, ++</sub>
 - DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
 - Разработка проектов на **C++** и **C#** https://github.com/x2v0
-- Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
-http://ru.m.wikipedia.org/wiki/ROOT
+- Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий. http://ru.m.wikipedia.org/wiki/ROOT
 - Разговорный английский 
  
 
@@ -33,7 +32,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 
 Разработка Альтель ОС на базе [Альт ОС](
 https://www.basealt.ru)
- под отечественные платформы [Эльбрус-2000](https://ru.wikipedia.org/wiki/%25D0%25AD%25D0%25BB%25D1%258C%25D0%25B1%25D1%2580%25D1%2583%25D1%2581_2000&ved=2ahUKEwi8ncnxj66TAxUIKBAIHTxrHccQFnoECBoQAQ&usg=AOvVaw3ctz35KA0v_0FOZyylI3TM), aarch64 [Скиф процессор](https://support.elvees.com)
+ под отечественные платформы [Эльбрус-2000](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_2000) aarch64 [Скиф процессор](https://support.elvees.com)
 
 ---
 
