@@ -13,8 +13,8 @@
 
 **Специализация**  
 - ~30 лет в профессии. Программист общего профиля<sub>
-.  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, ++ **Разработка под**: Linux, Windows, Android, Embedded</sub> 
-- DevOps: кросс-платформенная сборка пакетов Linux и его ядра. Платформы: x64, Эльбрус-2000, aarch64
+.  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, PowerShell ++ **Разработка под**: Linux, Windows, Android, Embedded</sub> 
+- DevOps: кросс-платформенная сборка пакетов Linux и его ядра. Платформы: x86, Эльбрус-2000, aarch64. Автоматизация сборки, контейнеризация, CI/CD.
 - Разработка проектов на **C++** и **C#** https://github.com/x2v0
 - Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий. http://ru.m.wikipedia.org/wiki/ROOT
 - Разговорный английский. Техническая документация.
