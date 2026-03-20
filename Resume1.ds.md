@@ -12,10 +12,11 @@
 
 | Область | Технологии |
 |---------|------------|
-| **Языки программирования** | C++ (20+ лет), C#, Kotlin, Python, bash |
-| **Системы сборки** | CMake, Meson/Ninja, autotools, Make, pkg-config |
-| **Платформы** | Linux (разработка дистрибутивов, ядро), Windows (Win32 API), Android, Embedded, Эльбрус-2000, aarch64 |
-| **Научное ПО** | ROOT (core contributor), Geant4, Gaudi, Pythia8 |
+| **Языки программирования** | C++ (20+ лет), C#, Kotlin, Python, bash, PowerShell |
+| **Системы сборки** | CMake, Meson/Ninja, autotools, Make, pkg-config, VisualStudio projects|
+| **Разработка GUI** | ROOT GUI, Qt, .NET WindowsForms, DevExpress, Android Jetpack |
+| **Платформы** | Linux (разработка дистрибутивов, ядро), Windows, Android, Embedded, Эльбрус-2000, aarch64 |
+| **Научное ПО** | ROOT (core contributor)|
 | **Инструменты** | Docker, Git, CI/CD, cross-compilation |
 
 **Английский язык:** разговорный, техническая документация
@@ -25,7 +26,7 @@
 ## Опыт работы
 
 ### АО НПЦ ЭЛВИС | Инженер-программист  
-*апрель 2025 – ноябрь 2025*
+*апрель 2025*
 
 - Разработка Альтель ОС (на базе Альт ОС) для отечественных платформ Эльбрус-2000 и aarch64 (Скиф)
 - Настройка кросс-компиляции и оптимизация системных компонентов под целевые архитектуры
