@@ -33,7 +33,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 
 Разработка Альтель ОС на базе [Альт ОС](
 https://www.basealt.ru)
- под отечественные платформы [Эльбрус](e2k6), aarch64 [Скиф процессор](https://support.elvees.com)
+ под отечественные платформы [Эльбрус-2000]([)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ru.wikipedia.org/wiki/%25D0%25AD%25D0%25BB%25D1%258C%25D0%25B1%25D1%2580%25D1%2583%25D1%2581_2000&ved=2ahUKEwi8ncnxj66TAxUIKBAIHTxrHccQFnoECBoQAQ&usg=AOvVaw3ctz35KA0v_0FOZyylI3TM), aarch64 [Скиф процессор](https://support.elvees.com)
 
 ---
 
