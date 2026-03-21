@@ -64,7 +64,7 @@ https://www.basealt.ru)
 - [PFS/TM](https://x2v0.github.io/TM/docs) — C#-реализация протокола обмена данными  
 - [EBTfilm](https://x2v0.github.io/EBTfilm) — обработка дозиметрических плёнок 
     - Технологии: C#, C++, ROOT 
-- [AlignPatient](https://github.com/x2v0/AlignPatient) — система видеоконтроля положения пациента  
+- [AlignPatient](https://x2v0.github.io/AlignPatient/HTML/) — система видеоконтроля положения пациента  
     - Технологии: C#, C++, COM, DirectShow, network, real time video editting
     - Протоколы: multicast UDP, TCP/IP, RTP, SIP
 
