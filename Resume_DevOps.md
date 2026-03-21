@@ -1,4 +1,4 @@
-## Резюме: DevOps Engineer / Platform Engineer
+# Резюме: DevOps Engineer / Platform Engineer
 
 ## Контактная информация
 
