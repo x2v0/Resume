@@ -7,7 +7,7 @@
 📍 Протвино, Московская область  
 🌐 [github.com/x2v0](https://github.com/x2v0)
 
-[Резюме полное](https://github.com/x2v0/Resume)
+### [Резюме полное](https://github.com/x2v0/Resume)
 ---
 
 ## Соответствие требованиям вакансии
