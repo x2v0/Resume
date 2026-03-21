@@ -50,7 +50,7 @@
 | Категория | Технологии |
 |-----------|------------|
 | **CI/CD** | GitLab CI, GitHub Actions, автоматизация сборки |
-| **Контейнеризация** | Docker, LXC, Podman |
+| **Контейнеризация** | Docker, LXC, Podman, DockerDesktop+WSL2 |
 | **Системы сборки** | CMake, Meson/Ninja, autotools, Make, pkg-config |
 | **Скриптинг** | Bash, Python, PowerShell |
 | **Платформы** | Linux (дистрибутивы, ядро), Эльбрус-2000, aarch64, x86 |
