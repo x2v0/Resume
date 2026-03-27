@@ -13,8 +13,14 @@
 
 Senior Software Engineer с 30-летним опытом в системном программировании, разработке научного и медицинского ПО, DevOps-инфраструктуре. Соавтор пакета **[ROOT](https://ru.wikipedia.org/wiki/ROOT)** (CERN), использовавшегося при открытии бозона Хиггса. Физик-экспериментатор.
 
-<sub>
-.  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, PowerShell ++ **Разработка под**: Linux, Windows, Android, Embedded</sub> 
+| Область | Технологии |
+|---------|------------|
+| **Языки** | C++, C#, Kotlin, Python, bash, PowerShell |
+| **Сборка** | CMake, Meson, autotools, Make |
+| **DevOps** | Docker, CI/CD, кросс-компиляция, chroot |
+| **Платформы** | Linux, Windows, Android, Эльбрус-2000, aarch64 |
+
+---
 - DevOps: кросс-платформенная сборка пакетов Linux и его ядра. Платформы: x86, Эльбрус-2000, aarch64. Автоматизация сборки, контейнеризация, CI/CD.
 - Разработка проектов на **C++** и **C#** https://github.com/x2v0
 - Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий. http://ru.m.wikipedia.org/wiki/ROOT
