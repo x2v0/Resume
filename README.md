@@ -5,7 +5,7 @@
 ✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
 📍 Протвино, Московская область \
 Гражданство: Россия  \
-🌐 [github.com/x2v0](https://github.com/x2v0) 
+🌐 [github.com/x2v0](https://github.com/x2v0?tab=repositories) 
 
 ---
 
