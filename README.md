@@ -1,17 +1,19 @@
 ## **Резюме**  
-### **Онучин Валерий Анатольевич**  
-![фото](./me.jpg) 
+### **Онучин Валерий Анатольевич**
 
-📞 **+7 (916) 794-74-98**  
-✉ **valeriy.onuchin@yandex.ru** *(предпочитаемый способ связи)*  
-📍 **Проживает:** Протвино, Московская область  
-🛂 **Гражданство:** Россия  
-**Возраст:** 62 года
+📞 +7 (916) 794-74-98 (через SMS) \
+✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
+📍 Протвино, Московская область \
+Гражданство: Россия  \
+🌐 [github.com/x2v0](https://github.com/x2v0/Resume) 
 
-[Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
+#### [Резюме: DevOps](https://github.com/x2v0/Resume/blob/main/Resume_DevOps.md)
+---
 
-**Специализация**  
-- ~30 лет в профессии. Программист общего профиля<sub>
+## Ключевая квалификация
+
+Senior Software Engineer с 30-летним опытом в системном программировании, разработке научного и медицинского ПО, DevOps-инфраструктуре. Соавтор пакета **[ROOT](https://ru.wikipedia.org/wiki/ROOT)** (CERN), использовавшегося при открытии бозона Хиггса. Физик-экспериментатор.
+<sub>
 .  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, PowerShell ++ **Разработка под**: Linux, Windows, Android, Embedded</sub> 
 - DevOps: кросс-платформенная сборка пакетов Linux и его ядра. Платформы: x86, Эльбрус-2000, aarch64. Автоматизация сборки, контейнеризация, CI/CD.
 - Разработка проектов на **C++** и **C#** https://github.com/x2v0
@@ -98,7 +100,9 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - Разработка и эксплуатация калориметров
 - ИФВЭ: эксперимент "Комплекс Меченного Нейтрино"
 - Участие в международных экспериментах (Америка: PHENIX, Minos.
-   ЦЕРН: ATLAS, Alice  
+   ЦЕРН: ATLAS, Alice
+
+[Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 ---
 
