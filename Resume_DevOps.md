@@ -7,7 +7,6 @@
 📞 +7 (916) 794-74-98 (через SMS) \
 ✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
 📍 Протвино, Московская область \
-Гражданство: Россия  \
 🌐 [github.com/x2v0](https://github.com/x2v0) 
 
 #### [Резюме полное](https://github.com/x2v0/Resume)
