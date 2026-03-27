@@ -133,7 +133,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - **84 научные публикации** в рецензируемых журналах и материалах конференций;
 - **Более 14 800 цитирований** 
 - [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
-- Соавтор фундаментальной статьи о фреймворке **ROOT**, ставшей стандартом для анализа данных в физике высоких энергий:  
+- Соавтор фундаментальной статьи о фреймворке **[ROOT](http://ru.m.wikipedia.org/wiki/ROOT)**, ставшей стандартом для анализа данных в физике высоких энергий:  
   *Antcheva et al., "ROOT — A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization", 2011*.
 
 
