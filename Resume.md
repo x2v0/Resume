@@ -6,7 +6,7 @@
 📍 Протвино, Московская область \
 🌐 [github.com/x2v0](https://github.com/x2v0/Resume) 
 - [Резюме: DevOps](https://github.com/x2v0/Resume/blob/main/Resume_DevOps.md)
-- [Резюме: детальное](https://github.com/x2v0/Resume/blob/main/README.md)
+- [Резюме полное](https://github.com/x2v0/Resume/blob/main/README.md)
 
 ---
 
