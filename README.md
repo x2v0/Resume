@@ -118,6 +118,9 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - Участие в международных экспериментах (Америка: PHENIX, Minos.
    ЦЕРН: ATLAS, Alice
 
+Автор **84 публикаций**. \
+Более **13 600 цитирований**.
+
 [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 
 ---
