@@ -5,14 +5,14 @@
 ✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
 📍 Протвино, Московская область \
 Гражданство: Россия  \
-🌐 [github.com/x2v0](https://github.com/x2v0/Resume) 
+🌐 [github.com/x2v0](https://github.com/x2v0) 
 
-#### [Резюме: DevOps](https://github.com/x2v0/Resume/blob/main/Resume_DevOps.md)
 ---
 
 ## Ключевая квалификация
 
 Senior Software Engineer с 30-летним опытом в системном программировании, разработке научного и медицинского ПО, DevOps-инфраструктуре. Соавтор пакета **[ROOT](https://ru.wikipedia.org/wiki/ROOT)** (CERN), использовавшегося при открытии бозона Хиггса. Физик-экспериментатор.
+
 <sub>
 .  **Programming**: C++, C#, Kotlin, Python, bash, ++. **Building**: Make, CMake, Meson/Ninja, autotools/pkg-config, PowerShell ++ **Разработка под**: Linux, Windows, Android, Embedded</sub> 
 - DevOps: кросс-платформенная сборка пакетов Linux и его ядра. Платформы: x86, Эльбрус-2000, aarch64. Автоматизация сборки, контейнеризация, CI/CD.
