@@ -1,33 +1,56 @@
 ## **Резюме**  
-### **Онучин Валерий Анатольевич**  
-![фото](./me8.jpg) 
+### **Онучин Валерий Анатольевич**
 
-📞 **+7 (916) 794-74-98**  
-✉ **valeriy.onuchin@yandex.ru** *(предпочитаемый способ связи)*  
-📍 **Проживает:** Протвино, Московская область  
-🛂 **Гражданство:** Россия  
-**Возраст** 62 года
+###  Контактная информация
+📞 +7 (916) 794-74-98 (через SMS) \
+✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
+📍 Протвино, Московская область \
+🌐 [github.com/x2v0](https://github.com/x2v0?tab=repositories) 
 
-[Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
+---
 
-**Специализация**  
-- ~30 лет в профессии. Программист общего профиля: **<sub>Linux (включая ядро 6.18), Windows, Android, Embedded/SoC (ARM8, aarch64), Эльбрус/e2k. C++, C#, Kotlin, Python, bash, Go, Rust, Ruby, JavaScript ... Make, CMake, Meson/Ninja, autotools/pkg-config ... VS Studio, VS Code, Android Studio, Eclipse ... Win32, X11, GL, Vulkan ... Qt, Winforms/WPF, DevExpress Forms, JetBrains Compose ... DirectShow, FFmpeg, GStreamer, OpenCV ... TCP/IP, UDP, RTSP ... ODBC, SQLite, MySQL, Maria DB, PostgeSQL .. docker, LXC ... PulseAudio, PipeWire, ALSA, HDA ...  ++ и тд. и тп.</sub>**
-- DevOps: кросс-платформенная сборка Linux и его ядра. Платформы: Эльбрус, aarch64
-- Разработка проектов на **C++** и **C#**
-- Разговорный английский 
+## Программирование
+
+Senior Software Engineer с 30-летним опытом в системном программировании, разработке научного и медицинского ПО, DevOps-инфраструктуре. Соавтор пакета **[ROOT](https://ru.wikipedia.org/wiki/ROOT)** (CERN), использовавшегося при открытии бозона Хиггса.
+
+| Область | Технологии |
+|---------|------------|
+| **Языки** | C++, C#, Kotlin, Python, bash, PowerShell |
+| **Сборка** | CMake, Meson, autotools, Make |
+| **DevOps** | Docker, CI/CD, кросс-компиляция, chroot |
+| **Платформы** | Linux, Windows, Android, Эльбрус-2000, aarch64 |
+
+---
+
+## DevOps
+
+| Требование вакансии | Мой опыт |
+|---------------------|----------|
+| Опыт с CI/CD (GitLab CI, GitHub Actions) | Настроил пайплайны для автоматической сборки Docker-образов и тестирования в проекте SPD (ОИЯИ). |
+| Кросс-компиляция для нестандартных платформ | Разработка ОС для Эльбрус-2000 и aarch64 (АО НПЦ ЭЛВИС). Сборка Linux-дистрибутива под x86_64, e2k и aarch64. |
+| Контейнеризация (Docker) | Создал Docker-образы для распределённых вычислений в эксперименте SPD (Geant4, ROOT, Gaudi). |
+| Автоматизация сборки (CMake, Meson) | Разработал CMake-инфраструктуру для гетерогенной среды разработки. Опыт с autotools, Make, pkg-config. |
+| Глубокое знание Linux | Сборка Linux-дистрибутива с нуля ([`lfspd`](https://github.com/x2v0/lfspd/blob/main/README.ru.md) 200+ пакетов). Работа с ядром, chroot, системными компонентами. |
+
+---
+
+- Разговорный английский. \
+ Техническая документация.
  
 
 ---
 
 ## **Опыт работы**  
 
-### **"АО НПЦ ЭЛВИС "** *(апрель- ноябрь 2025)* 
+### **"АО НПЦ ЭЛВИС "** *(март-декабрь 2025)* 
 
 🔗 [elvees.ru](https://elvees.ru)
 
 **Инженер-программист**
 
-Разработка Альтель ОС на базе Альт ОС под платформы Эльбрус (e2k6), aarch64 (Скиф процессор: SoC,ARM Cortex-A53)
+Разработка Альтель ОС на базе [Альт ОС](
+https://www.basealt.ru)
+ под отечественные платформы [Эльбрус-2000](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81_2000), aarch64 [Скиф процессор](https://support.elvees.com/docs/Microchips/SKIF/)
 
 ---
 
@@ -35,13 +58,13 @@
 🔗 [jinr.ru](https://jinr.ru)  
 
 **Программист-физик**  
-Разработка ПО для эксперимента SPD ([spd.jinr.ru](https://spd.jinr.ru)):  
+Разработка ПО для эксперимента [SPD на коллайдере НИКА](https://spd.jinr.ru):  
 - создание docker image для распределенных вычислений, включающий в себя
   - моделирование детектора
   - реконструкцию физических событий (Geant4, Pythia8, ROOT, Gaudi)  
 
 **Избранные репозитории:**  
-- [lfspd](https://github.com/lfspd/lfspd) — docker image для параллельных вычислений. Основан на https://linuxfromscratch.org
+- [lfspd](https://github.com/lfspd/lfspd/blob/main/README.ru.md) — docker image для параллельных вычислений. Основан на https://linuxfromscratch.org
 	Автоматическая сборка Linux дистрибутива ~200 пакетов, включающего математические, физические пакеты.
    - Технологии: chroot, python, docker, bash, cmake, системы сборки и компиляторы  
 - [SpdCMake](https://git.jinr.ru/x2v0/SpdCMake) — CMake-функции для SPD эксперимента.  
@@ -60,7 +83,7 @@
 - [PFS/TM](https://x2v0.github.io/TM/docs) — C#-реализация протокола обмена данными  
 - [EBTfilm](https://x2v0.github.io/EBTfilm) — обработка дозиметрических плёнок 
     - Технологии: C#, C++, ROOT 
-- [AlignPatient](https://github.com/x2v0/AlignPatient) — система видеоконтроля положения пациента  
+- [AlignPatient](https://x2v0.github.io/AlignPatient/HTML/) — система видеоконтроля положения пациента  
     - Технологии: C#, C++, COM, DirectShow, network, real time video editting
     - Протоколы: multicast UDP, TCP/IP, RTP, SIP
 
@@ -70,7 +93,7 @@
 🔗 [cern.ch](https://cern.ch)  
 
 **Программист-физик**  
-Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
+Соавтор пакета 🔗 [root.cern.ch](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
 http://ru.m.wikipedia.org/wiki/ROOT
 
 - более 4 миллионов линий C++ кода
@@ -78,7 +101,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - сегодня в файлах ROOT хранится более 2 эксабайт. Бозон Хиггса был открыт с помощью ROOT.
 
 **Основной вклад:**  
-- Windows-версия ROOT (Win32 API) 
+- Windows-версия ROOT
 - GUI-классы и GuiBuilder ([документация](https://root.cern.ch/root/htmldoc/guides/users-guide/WritingGUI.html))  
 - Классы обработки изображений ([пример](https://root.cern.ch/doc/v630/group__tutorial__image.html))  
 - Carrot — Apache-модуль для выполнения C++ скриптов на стороне сервера (аналог PHP)([подробнее](https://sourceforge.net/projects/carrot))  
@@ -90,16 +113,34 @@ http://ru.m.wikipedia.org/wiki/ROOT
 ### **ИФВЭ, Протвино, Московская область** *(май 1987 — сентябрь 2001)*  
 🔗 [ihep.ru](http://ihep.ru)  
 
-**Научный сотрудник. Физик-экспериментатор**  
-- Разработка и эксплуатация калориметров  
-- Участие в международных экспериментах (Америка: PHENIX, Minos.
-   ЦЕРН: ATLAS, Alice  
+**Научный сотрудник. Физик-экспериментатор** 
+
+### Основные научные направления
+- **Физика тяжёлых ионов и кварк-глюонная плазма**
+	- Соавтор ключевых публикаций коллаборации **PHENIX** на ускорителе RHIC (США).
+- **Физика нейтрино**
+	- Участие в эксперименте **MINOS** (Fermilab, США).
+- **Физика каонов и редких распадов**
+	- Работа на установке **"Комплекс Меченных Нейтрино"** в ИФВЭ (Протвино):
+- **Разработка, эксплуатация электромагнитных, адронных калориметров**
+- **Эксперимент «Гиперон-М» (ИФВЭ, У-70)**
+
+---
+
+### 🔹 Публикационная активность
+
+- **84 научные публикации** в рецензируемых журналах и материалах конференций;
+- **Более 14 800 цитирований** 
+- [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
+- Соавтор фундаментальной статьи о фреймворке **[ROOT](http://ru.m.wikipedia.org/wiki/ROOT)**, ставшей стандартом для анализа данных в физике высоких энергий:  
+  *Antcheva et al., "ROOT — A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization", 2011*.
+
 
 ---
 
 ## **Образование**  
 
-### **Харьковский национальный университет имени В.Н. Каразина** *(1981—1987)*  
+### **Харьковский национальный университет имени В.Н. Каразина (1981—1987)**
+
 **Физико-Технический Факультет**  
 📚 **Специальность:** экспериментальная ядерная физика  
-
