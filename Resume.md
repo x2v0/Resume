@@ -15,7 +15,7 @@
 
 * Senior Software Engineer с 30-летним опытом в системном программировании, разработке научного и медицинского ПО, DevOps-инфраструктуре.
 * Соавтор пакета **[ROOT](https://ru.wikipedia.org/wiki/ROOT)** (CERN), использовавшегося при открытии бозона Хиггса.
-* Соавтор фундаментальной статьи о фреймворке ROOT, ставшей стандартом для анализа данных в физике высоких энергий: Antcheva et al., "ROOT — A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization", 2011.
+* Соавтор фундаментальной статьи о фреймворке **[ROOT](https://ru.wikipedia.org/wiki/ROOT)**, ставшей стандартом для анализа данных в физике высоких энергий:\ Antcheva et al., "ROOT — A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization", 2011.
 * Физик-экспериментатор (84 научные публикации. Более 14 800 цитирований. Индекс Хирша = 43)
 
 | Область | Технологии |
