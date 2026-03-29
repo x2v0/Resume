@@ -94,7 +94,7 @@ https://www.basealt.ru)
 🔗 [cern.ch](https://cern.ch)  
 
 **Программист-физик**  
-Соавтор пакета 🔗 [ROOT](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
+Соавтор пакета 🔗 [root.cern.ch](https://root.cern.ch) для экспериментов Физики Высоких Энергий.  
 http://ru.m.wikipedia.org/wiki/ROOT
 
 - более 4 миллионов линий C++ кода
