@@ -90,7 +90,7 @@ https://www.basealt.ru)
 **Избранные репозитории:**  
 - [3D DICOM Viewer](https://dicom2fmm.github.io) — 3D просмотрщик, конвертер DICOM 
     - Технологии: C#, C++, DevExpress, DICOM
-- [PFS/TM](https://x2v0.github.io/TM/docs) — C#-реализация протокола обмена данными  
+- [PFS/TM](https://x2v0.github.io/TM/docs) [План облучения](https://github.com/x2v0/MainCClient.NET?tab=readme-ov-file) — C#-реализация протокола обмена данными  
 - [EBTfilm](https://x2v0.github.io/EBTfilm) — обработка дозиметрических плёнок 
     - Технологии: C#, C++, ROOT 
 - [AlignPatient](https://x2v0.github.io/AlignPatient/HTML/) — система видеоконтроля положения пациента  
