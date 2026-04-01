@@ -11,7 +11,7 @@
 | Область | Технологии |
 |---------|------------|
 | **Языки** | C++, C#, Kotlin, Python, bash, PowerShell |
-| **Сборка** | CMake, Meson/Ninja, autotools, Make, pkg-config |
+| **Сборка** | CMake, Meson/Ninja, autotools, Make, pkg-config, msbuild |
 | **DevOps** | Docker, CI/CD, кросс-компиляция,  системное программирование, ядро Linux, сборка ОС |
 | **Платформы** | Linux, Windows, Android, Эльбрус-2000, Скиф (aarch64/SoC) |
 | **Экспертиза** | Разработка высоконагруженных систем, кросс-платформенная сборка,  анализ и визуализация научных данных, медицинское ПО |
