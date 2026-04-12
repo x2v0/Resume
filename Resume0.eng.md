@@ -1,6 +1,3 @@
-Here is the English translation of the full resume:
-
----
 
 # Valeriy A. Onuchin
 
@@ -51,5 +48,3 @@ Hirsch index = 43.
 📚 Major: Experimental Nuclear Physics
 
 ---
-
-Let me know if you'd like a version formatted for a US/EU-style resume (shorter, achievement-focused, no photo/birth date, etc.).
