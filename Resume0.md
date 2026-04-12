@@ -1,4 +1,4 @@
-## **Онучин Валерий Анатольевич**
+## **Онучин Валерий Анатольевич** [<sup><sub>eng</sup></sub>](https://github.com/x2v0/Resume/blob/main/Resume0.eng.md)
 
 📞 +7 (916) 794-74-98 (только SMS) \
 ✉ valeriy.onuchin@yandex.ru (предпочтительный способ связи) \
