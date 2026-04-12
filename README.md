@@ -1,4 +1,4 @@
-# **Резюме** <sub>[eng](https://github.com/x2v0/Resume/blob/main/Resume0.eng.md)</sub>
+# Резюме <sub>[eng](https://github.com/x2v0/Resume/blob/main/Resume0.eng.md)</sub>
 ## **Онучин Валерий Анатольевич**
 
 **Senior Software Engineer | System Programming | DevOps**
