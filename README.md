@@ -116,7 +116,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - Классы обработки изображений ([пример](https://root.cern.ch/doc/v630/group__tutorial__image.html))  
 - Carrot — Apache-модуль для выполнения C++ скриптов на стороне сервера (аналог PHP)([подробнее](https://sourceforge.net/projects/carrot))  
 - QtRoot (Qt, C++) ([детали](https://www.gnome-look.org/p/1131848/)) 
-
+- RDBC (ROOT DataBase Connectivity) - интерфейс для работы с базами данных через ODBC протокол. Реализация ([JDBC API](https://ru.wikipedia.org/wiki/Java_Database_Connectivity)) в виде ROOT классов.
 
 ---
 
