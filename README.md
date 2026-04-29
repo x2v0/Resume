@@ -144,6 +144,7 @@ http://ru.m.wikipedia.org/wiki/ROOT
 - [Индекс Хирша = 43](https://www.scopus.com/authid/detail.uri?authorId=8401982000).
 - Соавтор фундаментальной статьи о фреймворке **[ROOT](http://ru.m.wikipedia.org/wiki/ROOT)**, ставшей стандартом для анализа данных в физике высоких энергий:  
   *Antcheva et al., "ROOT — A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization", 2011*.
+- Моя статья на хабре **[40 лет анализа больших объёмов данных в Физике Высоких Энергий: интервью с Рене Браном](https://habr.com/ru/articles/495090)**
 
 
 ---
